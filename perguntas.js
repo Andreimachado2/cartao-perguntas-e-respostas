@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'capitais',
+    'qual e a capital de santa catarina?',
+    'florianopolis'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'capitais',
+    'Qual a capital do parana?',
+    'curitiba'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'capitais',
+    'qual a capital de sao paulo?',
+    'sao paulo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'capitais',
+    'qual a capital do mato grosso?',
+    'belo horizonte'
 )
